@@ -1,15 +1,15 @@
 <h1 align="center">Hello, I'm Shahriar Arafa</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafakst&label=Profile%20views&color=0e75b6&style=flat" alt="arafakst" /> </p>
 
 <p align="left"> <a href="https://twitter.com/arafakst01" target="blank"><img src="https://img.shields.io/twitter/follow/arafakst01?logo=twitter&style=for-the-badge" alt="arafakst01" /></a> </p>
 
-- 🔭 I’m currently working on **E-Learning Platform**
+- 🔭 I’m currently working on **Load Testing**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **SQA**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **SQA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
